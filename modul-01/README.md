@@ -1,16 +1,28 @@
-# Modul [01] - [Nama Topik Modul]
+# Modul [01] - konverensi suhu
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** Keanu Alinskie Raffi Ibrahim  
+**NIM:** 1306625052  
+**Kelas:** Fisika C 
 
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> membut sebuah program untuk mengghitung suhu celcius-reamur-farenhait-kelvin
 
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+> T_{\text{R}} = \frac{4}{5} T_{\text{C}}
 
 ## 3. Algorithm
-> Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
+> 1. mulai
+> 2. cetak/print judul " program konversi suhu "
+> 3. print "nama: Keanu Alinskie Raffi Ibrahim "
+> 4. print "NIM: 1306625052"
+> 5. Input " Suhu awal:... "
+> 6. Input " Suhu Akhir:..."
+> 7. input " selang:..."
+> 8. Print " tabel konversi "
+> 9. print " tabel..."
+> 10. Hitung Celcius ke Reamur : 4/5
+> 11. Hitung Celcius ke Farenheit:
+> 12. print hasil
+> 13. selesai
