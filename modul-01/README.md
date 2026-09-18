@@ -10,7 +10,7 @@
 > membut sebuah program untuk mengghitung suhu celcius-reamur-farenhait-kelvin
 
 ## 2. Mathematical Equation
-R = \frac{4}{5} C
+$$R = \frac{4}{5} C$$
 
 ## 3. Algorithm
 > 1. mulai
